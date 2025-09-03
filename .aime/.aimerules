@@ -1,0 +1,48 @@
+# Project Rules
+
+This project uses AIME for development assistance with automatic state tracking.
+
+## Current Plan and TODOs
+
+### Plan
+## Plan for React Todo Application
+
+### Approach:
+Create a full-featured todo application using React with modern hooks, local storage persistence, and a clean user interface. The app will include CRUD operations, filtering, and responsive design.
+
+### TODOs:
+[ ] Set up React project with Vite
+[ ] Create customer personas and AIME documentation
+[ ] Design component structure and data models
+[ ] Implement core todo functionality (add, edit, delete, toggle)
+[ ] Add filtering system (all, active, completed)
+[ ] Implement local storage persistence
+[ ] Style the application with modern CSS
+[ ] Test all functionality
+
+### TODOs
+[ ] Set up React project with Vite
+[ ] Create customer personas and AIME documentation
+[ ] Design component structure and data models
+[ ] Implement core todo functionality (add, edit, delete, toggle)
+[ ] Add filtering system (all, active, completed)
+[ ] Implement local storage persistence
+[ ] Style the application with modern CSS
+[ ] Test all functionality
+
+# Lessons Learned
+
+## User Specified Lessons
+(No lessons documented yet)
+
+## AIME Learned  
+(No lessons documented yet)
+
+# Scratchpad
+
+## Current Task
+Project initialized - ready for development tasks
+
+## Progress
+[X] Project setup complete
+[ ] Waiting for first development task

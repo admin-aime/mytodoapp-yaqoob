@@ -1,0 +1,32 @@
+{
+  "name": "AIME Project",
+  "version": "1.0.0",
+  "description": "AI-powered development project",
+  "created": "2025-09-03T10:47:18.383Z",
+  "type": "general",
+  "settings": {
+    "autoSave": true,
+    "aiAssistant": {
+      "enabled": true,
+      "model": "claude-3.5-sonnet",
+      "features": {
+        "codeGeneration": true,
+        "debugging": true,
+        "documentation": true,
+        "testing": true
+      }
+    },
+    "development": {
+      "hotReload": true,
+      "linting": true,
+      "formatting": true
+    }
+  },
+  "workspace": {
+    "defaultEditor": "monaco",
+    "theme": "dark",
+    "fontSize": 14,
+    "tabSize": 2,
+    "wordWrap": true
+  }
+}
